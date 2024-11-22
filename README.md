@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IfeanyiMiracle21
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on other Web developers
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with other Web developers
+- 📫 How to reach me via email obianiai@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
