@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ifeanyi Obiania
+# 👋 Hi, I'm Ifeanyi Obiania  
 
 **Front-end Developer | Web & AI Enthusiast | Forex Trader | Photographer**
 
@@ -6,29 +6,32 @@
 
 🌟 **About Me**
 
-I'm a passionate front-end developer focused on building scalable web apps and AI-driven platforms. I love using HTML, CSS, JavaScript, and React to turn ideas into interactive, user-friendly experiences. When I'm not coding, you'll find me analyzing the forex markets or capturing the world through my phone camera lens.
+I’m a passionate front-end developer who loves turning ideas into elegant, high-performing web experiences.  
+I build with **HTML**, **CSS**, **JavaScript**, and **React**, focusing on responsive design, accessibility, and performance.  
+Beyond code, I enjoy analyzing the forex markets and capturing creative moments through my phone lens.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React
-- **Interests:** Scalable web apps, AI platforms, UI/UX
+- **Languages:** HTML, CSS, JavaScript (ES6+)
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS  
+- **Tools:** Git, VS Code, Vite 
+- **Interests:** Modern UI engineering, web animations, and user-centered design  
 
 ---
 
 ## 🔥 Highlights
 
-- 🌐 [augmend-10038](https://github.com/IfeanyiMiracle21/augmend-10038) — My featured project showcasing modern front-end skills and innovation.
-- 📈 Forex trader: Applying analytical thinking from trading to tech problem-solving.
-- 📸 Mobile photographer: Creativity beyond code.
+- 🌐 **[augmend-10038](https://github.com/IfeanyiMiracle21/augmend-10038)** — A featured project showcasing modern front-end practices and innovative design.  
+- 📈 **Forex Trader** — Applying analytical thinking and pattern recognition to both trading and problem-solving.  
+- 📸 **Mobile Photographer** — Exploring creativity beyond the codebase.  
 
 ---
 
 ## 📊 GitHub Stats
 
-![IfeanyiMiracle21's GitHub stats](https://github-readme-stats.vercel.app/api?username=IfeanyiMiracle21&show_icons=true&theme=radical)
+![IfeanyiMiracle21's GitHub stats](https://github-readme-stats.vercel.app/api?username=IfeanyiMiracle21&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IfeanyiMiracle21&layout=compact&theme=radical)
 
 ---
@@ -47,4 +50,4 @@ I'm a passionate front-end developer focused on building scalable web apps and A
 
 ---
 
-> "Building tomorrow's web, one pixel at a time."
+> _“Building tomorrow’s web, one pixel at a time.”_
