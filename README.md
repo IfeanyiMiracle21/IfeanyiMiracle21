@@ -16,7 +16,7 @@ Beyond code, I enjoy analyzing the forex markets and capturing creative moments 
 
 - **Languages:** HTML, CSS, JavaScript (ES6+)
 - **Frameworks & Libraries:** React, Next.js, Tailwind CSS  
-- **Tools:** Git, VS Code, Vite 
+- **Tools:** Git & GitHub, VS Code, Vite 
 - **Interests:** Modern UI engineering, web animations, and user-centered design  
 
 ---
