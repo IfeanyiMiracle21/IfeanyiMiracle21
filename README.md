@@ -23,7 +23,7 @@ Beyond code, I enjoy analyzing the forex markets and capturing creative moments 
 
 ## 🔥 Highlights
 
-- 🌐 **[augmend-10038](https://github.com/IfeanyiMiracle21/augmend-10038)** — A featured project showcasing modern front-end practices and innovative design.  
+- 🌐 **[wrlds-ai-integration](https://github.com/IfeanyiMiracle21/wrlds-ai-integration-7323)** — A featured project showcasing modern front-end practices and innovative design.  
 - 📈 **Forex Trader** — Applying analytical thinking and pattern recognition to both trading and problem-solving.  
 - 📸 **Mobile Photographer** — Exploring creativity beyond the codebase.  
 
